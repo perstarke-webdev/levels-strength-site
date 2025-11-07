@@ -109,3 +109,11 @@ $base0f: #b18a3d !default;
 .hero__logo {
   margin-bottom: -1em;
 }
+
+/* Font Family Overrides */
+$font-family-montserrat: 'Montserrat', sans-serif;
+
+$global-font-family: $font-family-montserrat;
+$header-font-family: $font-family-montserrat;
+$caption-font-family: $font-family-montserrat;
+$sans-serif: $font-family-montserrat;
