@@ -90,3 +90,22 @@ $base0f: #b18a3d !default;
   margin-top: -6.5em; /* Pulls the entire hero element up */
   padding-top: 6.5em; /* Pushes the content back down to its original position */
 }
+
+/* Styles for hero action button */
+.btn.btn--hero-action {
+  margin-top: 1em;
+  border-color: $primary-color;
+  color: $primary-color;
+  background-color: transparent; /* Ensure it starts transparent */
+  transition: all 0.3s ease-in-out;
+}
+
+.btn.btn--hero-action:hover {
+  background-color: $primary-color;
+  color: #fff;
+}
+
+/* Adjust hero logo margin */
+.hero__logo {
+  margin-bottom: -1em;
+}
