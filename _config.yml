@@ -39,7 +39,7 @@ footer:
       #url: "https://perstarke-webdev.de"
     - label: "Email"
       icon: "fa fa-envelope"
-      url: "mailto: per@starke-team.de"
+      url: "mailto: info@levelsstrength.com.au"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
       # url:
@@ -54,16 +54,16 @@ footer:
       # url: "https://github.com/perstarke-webdev"
     - label: "Instagram"
       icon: "fab fa-instagram"
-      url: "https://www.instagram.com/per.starke/"
+      url: "http://instagram.com/levelsstrength"
     - label: "YouTube"
       icon: "fab fa-youtube"
       # url: "https://www.youtube.com/channel/UCG2Ndo4IEH8Fa0oIv2FBRMA"
     - label: "Dev"
       icon: "fab fa-dev"
       # url: "https://dev.to/per-starke-642"
-  copyright: "Per Starke Web Development" # Replace with your own
+  copyright: "Levels Strength" # Replace with your own
   creator: # Replace with your own creator name or remove this if you don't want any "created by" in the footer
-      name: "Per Starke Web Development"
+      name: "PSWD"
       url: "https://perstarke-webdev.de"
 
 
