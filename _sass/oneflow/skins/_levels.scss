@@ -134,3 +134,13 @@ section.alternative-color {
   color: white;
   text-decoration: underline;
 }
+
+/* Add padding to boxes */
+.box {
+  padding: 1em;
+}
+
+/* Increase font size of notice text */
+.notice--primary p {
+  font-size: 120% !important;
+}
