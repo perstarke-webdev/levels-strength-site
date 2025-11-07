@@ -128,3 +128,9 @@ $sans-serif: $font-family-montserrat;
 section.alternative-color {
   background-color: $primary-color !important;
 }
+
+/* Style for cookie banner link */
+#cookie-banner a {
+  color: white;
+  text-decoration: underline;
+}
