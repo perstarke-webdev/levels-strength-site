@@ -1,0 +1,92 @@
+/* ==========================================================================
+   Levels Strength skin
+   ========================================================================== */
+
+/* Colors */
+$background-color: #fff !default;
+$text-color: #000 !default;
+$muted-text-color: $text-color !default;
+$primary-color: #f7931e !default; // Orange
+$border-color: mix(#fff, $text-color, 85%) !default;
+$footer-background-color: #000 !default;
+$link-color: mix(#000, $primary-color, 25%) !default; // Darker orange for hover states
+$masthead-background-color: #000 !default;
+$masthead-link-color: #fff !default;
+$masthead-link-color-hover: $primary-color !default;
+$navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
+
+/* Alternative section colors */
+$alternative-background-color: #000 !default;
+$alternative-text-color: #fff !default;
+
+/* Syntax highlighting */
+$base00: #000000 !default;
+$base01: #242422 !default;
+$base02: #484844 !default;
+$base03: #6c6c66 !default;
+$base04: #918f88 !default;
+$base05: #b5b3aa !default;
+$base06: #d9d7cc !default;
+$base07: #fdfbee !default;
+$base08: #ff6c60 !default;
+$base09: #e9c062 !default;
+$base0a: #ffffb6 !default;
+$base0b: #a8ff60 !default;
+$base0c: #c6c5fe !default;
+$base0d: #96cbfe !default;
+$base0e: #ff73fd !default;
+$base0f: #b18a3d !default;
+
+/* Adjust notices for the new background */
+.page__content {
+  .notice {
+    background-color: #f2f2f2;
+    color: $text-color;
+  }
+  .notice--primary {
+    background-color: $primary-color;
+    color: #fff;
+  }
+  .notice--info {
+    background-color: #52adc8;
+    color: #fff;
+  }
+  .notice--warning {
+    background-color: #f0ad4e;
+    color: #fff;
+  }
+  .notice--success {
+    background-color: #5cb85c;
+    color: #fff;
+  }
+  .notice--danger {
+    background-color: #d9534f;
+    color: #fff;
+  }
+}
+
+/* Footer text color */
+.page__footer {
+  color: #fff !important; // override for dark footer
+}
+
+.page__footer-follow .social-icons i,
+.page__footer-follow .social-icons .svg-inline--fa {
+  color: inherit;
+}
+
+/* Ensure links in alternative sections are visible */
+.alternative-color a {
+  color: $primary-color;
+}
+
+/* Set masthead border to primary color */
+.masthead {
+  border-bottom: 1.5px solid $primary-color !important;
+}
+
+/* Layer hero behind sticky masthead */
+.page__hero--overlay {
+  margin-top: -6.5em; /* Pulls the entire hero element up */
+  padding-top: 6.5em; /* Pushes the content back down to its original position */
+}
