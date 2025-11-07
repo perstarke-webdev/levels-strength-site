@@ -1,88 +1,88 @@
 ---
 layout: page
-title: Impressum und Datenschutz
+title: Imprint and Privacy Policy
 permalink: /imprint
 ---
 
-#### German Imprint
-This imprint & privacy note is in German, as I (Per Starke, the responsible person) am German, and it's therefore
-required by German Law. Contact me or use translation tools for an english version. 
+#### Imprint
+This imprint and privacy policy apply to all content and services provided under the name **Levels Strength & Nutrition** by the responsible person listed below.
 
 <hr>
 
-#### Anbieter und Verantwortliche Person
-Per Starke, Willi-Lauf Allee 43, D-50858 Köln
+#### Provider and Responsible Person
+Christopher James Portelli  
+26 Lorraine Ave  
+Bardwell Valley NSW 2207  
+Australia
 
-
-#### Kontakt
-Telefon: +49 160 93268817
+#### Contact
+Phone / WhatsApp: 0403 786 864  
 <br>
-e-Mail: per_at_starke-team.de
-<br>  
-  
-[Website](https://perstarke-webdev.de/)   
-[Blog](https://blog.perstarke-webdev.de/)
+Email: info_at_levelsstrength.com.au  
+<br>
 
-  
-## Datenschutzerklärung
+---
 
-#### Geltungsbereich
-Diese Datenschutzerklärung klärt Nutzer über die Art, den Umfang und Zwecke der Erhebung und Verwendung personenbezogener Daten durch den vorstehend genannten Anbieter Per Starke auf dieser Website (im folgenden “Angebot”) auf.<br />
-<br />
-Die rechtlichen Grundlagen des Datenschutzes finden sich in der Datenschutzgrundverordnung (DSGVO), dem Bundesdatenschutzgesetz (BDSG) und dem Telemediengesetz (TMG).<br />
-<br />
+## Privacy Policy
 
-#### Zugriffsdaten/ Server-Logfiles
-Der Webspace-Provider des Anbieters erhebt Daten über jeden Zugriff auf das Angebot (so genannte Serverlogfiles). Zu diesen Zugriffsdaten gehören:<br />
-<br />
-Name der abgerufenen Webseite, Datei, Datum und Uhrzeit des Abrufs, übertragene Datenmenge, Meldung über erfolgreichen Abruf, Browsertyp nebst Version, das Betriebssystem des Nutzers, Referrer URL (die zuvor besuchte Seite), IP-Adresse und der anfragende Provider.<br/>
-<br/>
-Der Anbieter verwendet diese Protokolldaten *nicht*!
+#### Scope
+This privacy policy explains the type, scope, and purpose of the collection and use of personal data by the provider named above (referred to as “we” or “the provider”) on this website (“the website” or “service”).
 
-Der Anbieter behält sich jedoch vor, die Protokolldaten nachträglich zu überprüfen, wenn aufgrund konkreter Anhaltspunkte der berechtigte Verdacht einer rechtswidrigen Nutzung besteht.
+We take your privacy seriously and handle all personal data in accordance with applicable Australian privacy laws and general data protection principles.
 
-#### GitHub Pages und CDN-Nutzung:
+#### Access Data / Server Log Files
+Our hosting provider automatically collects data about every access to this website (so-called server log files). These access data include:
 
-Diese Website wird über [GitHub Pages](https://pages.github.com/) bereitgestellt, einem von GitHub, Inc. angebotenen Dienst, der es ermöglicht, Webseiteninhalte effizient und schnell weltweit zu verteilen. Die Verwendung von GitHub Pages integriert automatisch ein Content Delivery Network (CDN), um die Ladezeiten der Website zu optimieren und die Verfügbarkeit von Inhalten sicherzustellen.
+- Name of the accessed webpage or file
+- Date and time of the request
+- Transferred data volume
+- Notification of successful retrieval
+- Browser type and version
+- User’s operating system
+- Referrer URL (the previously visited page)
+- IP address and requesting provider
 
-Durch die Nutzung dieser Website erklären Sie sich damit einverstanden, dass einige Ihrer nicht-persönlichen Daten, wie die IP-Adresse und Informationen zur Seitennutzung, über das CDN übertragen werden können, um eine optimale Leistung der Website zu gewährleisten. Diese Datenübertragung erfolgt in Übereinstimmung mit den geltenden Datenschutzbestimmungen.
+We **do not** use these log files for any form of tracking or analytics.  
+However, we reserve the right to review log data if there is reasonable suspicion of unlawful use based on specific indications.
 
-Wir respektieren Ihre Privatsphäre und ergreifen angemessene Maßnahmen, um Ihre persönlichen Informationen zu schützen. Bitte beachten Sie unsere Datenschutzerklärung für weitere Informationen darüber, wie wir mit Ihren Daten umgehen.
+#### Content Delivery Network (CDN)
+This website uses a **Content Delivery Network (CDN)** to ensure fast and reliable access to its content worldwide.  
+A CDN temporarily stores website files on distributed servers to reduce load times and improve availability.
 
-Bei Fragen oder Anliegen zur Verwendung von GitHub Pages und des CDNs auf dieser Website können Sie sich gerne an uns wenden.
+When you access this website, certain non-personal data such as your IP address and browser information may be transmitted through the CDN for technical reasons. This process complies with applicable data protection standards.
 
-#### Kontaktaufnahme
-Bei der Kontaktaufnahme mit dem Anbieter (zum Beispiel per Kontaktformular oder E-Mail) werden die Angaben des Nutzers zwecks Bearbeitung der Anfrage sowie für den Fall, dass Anschlussfragen entstehen, gespeichert.
+We take appropriate technical and organisational measures to safeguard your information and prevent any unauthorised access or misuse.
 
+#### Contact
+If you contact us (for example, via WhatsApp, phone, or email), we will store your details for the purpose of processing your request and in case of follow-up questions.
 
-#### Kommentare und Beiträge
-Diese Site enthält keine Kommentarfunktion, Nutzer können daher keine Beiträge hinterlassen.
+#### Comments and Posts
+This website does not provide any comment or posting functionality. Visitors cannot submit public posts or comments.
 
-#### Analyse, Tracking und Cookies
-Diese Seite verwendet kein Tracking, um Zugriffszahlen zu ermitteln.
-Es wird ein Cookie für die Dauer von einem Tag gesetzt, um die Zustimmung zur Verwendung der Website zu speichern, im Banner auf der Startseite, davon abgesehen verwenden wir keine Cookies.
+#### Analytics, Tracking, and Cookies
+We do **not** use any tracking or analytics tools.  
+A single temporary cookie may be used to store your consent to website use (for example, to hide a notification banner). Apart from this, this website does not use cookies.
 
-#### Haftung für Links
-Unser Angebot enthält Links zu externen Webseiten Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar.
+#### External Links
+Our website may contain links to external websites operated by third parties. We have no control over the content or data protection practices of these external sites and cannot accept any responsibility for them. At the time of linking, no unlawful content was identifiable.  
+If we become aware of any legal violations, such links will be removed immediately.
 
-Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links umgehend entfernen.
+#### Copyright Notice
+All content and works created by the website owner are protected by copyright. Reproduction, modification, distribution, or any kind of use outside the limits of copyright law requires prior written consent from the respective author or creator.  
+Downloads and copies of this site are permitted for private, non-commercial use only.
 
-### Urheberrecht
-Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers. Downloads und Kopien dieser Seite sind nur für den privaten, nicht kommerziellen Gebrauch gestattet.
+If any content on this site was created by third parties, such content is appropriately credited. If you notice a copyright issue, please notify us — such content will be removed promptly.
 
-Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.
+#### Use of FontAwesome
+This site uses graphic icons provided by **Font Awesome, Inc.** to display visual symbols.  
+Font Awesome’s general privacy practices can be found in their [Privacy Policy](https://fontawesome.com/privacy).
 
-#### Datenschutzerklärung für die Nutzung von FontAwesome
-Auf unseren Seiten verwenden wir grafische Symbole von FontAwesome,
-einem Visualisierungsdienst der Firma Font Awesome, Inc. Dieser Dienst
-erlaubt die Darstellung diverser Icon-Symbole auf unseren Seiten.
+On this website, Font Awesome is hosted **locally**, meaning no data is shared with external servers.
 
-FontAwesome nutzt anonyme Zugriffsdaten, die in deren
-[privacy policy](https://fontawesome.com/privacy) spezifiziert sind.
+#### Data Access, Correction, and Deletion
+You have the right to request information about any personal data we store about you.  
+You may also request correction or deletion of your data, provided no legal obligation requires us to retain it.
 
-Auf dieser Webseite wird FontAwesome allerdings lokal gehostet und somit keine Daten an FontAwesome weitergegeben.
-<br/>
+---
 
-
-#### Widerruf, Änderungen, Berichtigungen und Aktualisierungen
-Der Nutzer hat das Recht, auf Antrag unentgeltlich Auskunft zu erhalten über die personenbezogenen Daten, die über ihn gespeichert wurden. Zusätzlich hat der Nutzer das Recht auf Berichtigung unrichtiger Daten, Sperrung und Löschung seiner personenbezogenen Daten, soweit dem keine gesetzliche Aufbewahrungspflicht entgegensteht.<br />
+© Levels Strength & Nutrition — All rights reserved.
