@@ -16,7 +16,7 @@ $masthead-link-color-hover: $primary-color !default;
 $navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
 
 /* Alternative section colors */
-$alternative-background-color: #000 !default;
+$alternative-background-color: $primary-color !default;
 $alternative-text-color: #fff !default;
 
 /* Syntax highlighting */
@@ -108,6 +108,7 @@ $base0f: #b18a3d !default;
 /* Adjust hero logo margin */
 .hero__logo {
   margin-bottom: -1em;
+  margin-top: 2em;
 }
 
 /* Font Family Overrides */
@@ -117,3 +118,13 @@ $global-font-family: $font-family-montserrat;
 $header-font-family: $font-family-montserrat;
 $caption-font-family: $font-family-montserrat;
 $sans-serif: $font-family-montserrat;
+
+/* Adjust section separator for full orange sections */
+.section-sep {
+  border-image: linear-gradient(to right, $link-color, mix(#fff, $primary-color, 25%), $link-color) 1;
+}
+
+/* Force alternative sections to be full primary orange */
+section.alternative-color {
+  background-color: $primary-color !important;
+}
