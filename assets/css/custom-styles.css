@@ -1,1 +1,10 @@
-/* Custom stylesheet, add your own styles here */
+/* Contact section link styling */
+.contact-link {
+    color: #fff !important;
+    text-decoration: underline;
+    transition: opacity 0.2s ease;
+}
+
+.contact-link:hover {
+    opacity: 0.8;
+}
