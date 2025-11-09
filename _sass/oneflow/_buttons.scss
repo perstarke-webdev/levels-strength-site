@@ -36,7 +36,8 @@
   (success, $success-color),
   (warning, $warning-color),
   (danger, $danger-color),
-  (info, $info-color);
+  (info, $info-color),
+  (btnwhite, white);
 
   @each $buttoncolor, $color in $buttoncolors {
     &--#{$buttoncolor} {
