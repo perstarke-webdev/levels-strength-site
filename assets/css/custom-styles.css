@@ -8,3 +8,32 @@
 .contact-link:hover {
     opacity: 0.8;
 }
+
+
+
+/* Subtle orange divider line */
+.qual-divider {
+    border: none;
+    height: 2px;
+    width: 60%;
+    background-color: #f7931e;
+    margin: 2em auto;
+    opacity: 0.6;
+}
+
+/* Centered qualifications layout */
+.qualifications-centered {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 3em;
+    flex-wrap: wrap;
+    font-weight: 400;
+    text-align: center;
+    color: #000;
+}
+
+.qualifications-centered span {
+    display: inline-block;
+}
+
